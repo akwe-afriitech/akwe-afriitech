@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://github.com/akwe-afriitech/akwe-afriitech.git
 
 
 **akwe-afriitech/akwe-afriitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
