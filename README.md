@@ -4,11 +4,12 @@
 <hr>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
+<p align="center" style="color:white; background-color:blue; width=90%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a website to rent houses😎 **Quickrent**
+<div align="center">
+  - 🔭 I’m currently working on a website to rent houses😎 **Quickrent**
 
 - 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
 
@@ -17,6 +18,9 @@
 - 👨‍💻 All of my projects are available at my profile [akwe-afrittech](akwe-afrittech)
 
 - 📫 How to reach me via gmail **earlmillen7@gmail.com**
+  </div>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="ccenter">
