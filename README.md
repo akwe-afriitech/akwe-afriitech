@@ -4,7 +4,7 @@
 <hr>
 
 
-<p align="center" width="360px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
+<p align="center" width:360;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
