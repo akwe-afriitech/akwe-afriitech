@@ -8,7 +8,7 @@
    <img align="center" width="360" alt="Coding" src="https://github.com/elroykanye/elroykanye/blob/main/coding-freak.gif">
 </p>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=elroykanye&label=Profile%20views&color=0e75b6&style=flat" alt="elroykanye" /> </p> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=elroykanye&label=Profile%20views&color=0e75b6&style=flat" alt="akwe-afriitech" /> </p> -->
 
 <p align="center">
   <h2 align="center">🏆 GitHub Profile Trophy</h2>
@@ -20,15 +20,16 @@
 </p>
 <br>
 <p align="center">
-  <span align="center">🌱 I’m currently learning everything 🙂</span><br>
-  <span align="center">👯 I’m looking to collaborate on the Rust Crates.io  </span><br>
-  <span align="center">🤝 I’m looking for help with Rust WebAssembly</span><br>
+  <span align="center">🔭 I’m currently learning cloud computing with google africa developers scholarship🤓</span><br>
+  <span align="center">🌱 I’m currently working on a house renting website 🙂</span><br>
+  <span align="center">👯 I’m looking to collaborate on the web developers all over the world on this  🙂 </span><br>
+  <span align="center">🤝 I’m looking for help with javascript and to learn more</span><br>
   <span align="center">💬 Ask me about my Spiders</span><br>
   <span align="center">⚡ Fun fact: Eru is a delusional dish</span><br>
 </p>
 <br>
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://twitter.com/elroykanye" target="blank"><img src="https://img.shields.io/twitter/follow/elroykanye?logo=twitter&style=for-the-badge" alt="elroykanye" /></a> </p>
+<p align="center"> <a href="https://twitter.com/elroykanye" target="blank"><img src="https://img.shields.io/twitter/follow/elroykanye?logo=twitter&style=for-the-badge" alt="akwe-afriitech" /></a> </p>
 <p align="center">
 <a href="https://dev.to/elroykanye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elroykanye" height="30" width="40" /></a> 
 <a href="https://twitter.com/elroykanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elroykanye" height="30" width="40" /></a>
