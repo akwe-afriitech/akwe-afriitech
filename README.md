@@ -24,8 +24,8 @@
   <span align="center">🌱 I’m currently working on a house renting website 🙂</span><br>
   <span align="center">👯 I’m looking to collaborate on the web developers all over the world on this  🙂 </span><br>
   <span align="center">🤝 I’m looking for help with javascript and to learn more</span><br>
-  <span align="center">💬 Ask me about my Spiders</span><br>
-  <span align="center">⚡ Fun fact: Eru is a delusional dish</span><br>
+  <span align="center">💬 Ask me about my web development skills</span><br>
+  <span align="center">⚡ Fun fact: live is an illusion</span><br>
 </p>
 <br>
 <h3 align="center">Connect with me:</h3>
@@ -33,10 +33,10 @@
 <p align="center">
 <a href="https://dev.to/elroykanye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elroykanye" height="30" width="40" /></a> 
 <a href="https://twitter.com/elroykanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elroykanye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elroy-kanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elroy-kanye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elroy-kanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akwe-afritech" height="30" width="40" /></a>
 <a href="https://kaggle.com/elroykanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elroykanye" height="30" width="40" /></a>
-<a href="https://fb.com/elroykanye2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elroykanye2.0" height="30" width="40" /></a>
-<a href="https://instagram.com/elroykanye2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elroykanye2.0" height="30" width="40" /></a>
+<a href="https://fb.com/elroykanye2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akwe-afriitech" height="30" width="40" /></a>
+<a href="https://instagram.com/elroykanye2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akwe-afriitech" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
@@ -48,7 +48,7 @@
 </a>
 </p>
 -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elroykanye&hide=html&show_icons=true&locale=en&layout=compact&theme=nord" alt="elroykanye" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elroykanye&hide=html&show_icons=true&locale=en&layout=compact&theme=nord" alt="akwe-afriitech" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 <br>
 <h2 align="center"> 📈 GitHub Activity </h2>
-  <a href="https://github.com/elroykanye/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elroykanye&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=nord" /></a>
+  <a href="https://github.com/akwe-afriitech/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akwe-afriitech&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=nord" /></a>
 <!--
 <p align="center">
 <a href="https://profile.codersrank.io/user/elroykanye"><img width="480px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=elroykanye&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&theme=nord&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
@@ -66,7 +66,7 @@
 -->
 <!-- ![GitHub metrics](https://metrics.lecoq.io/elroykanye) -->
 
-![](https://github.com/elroykanye/elroykanye/blob/main/imgs/bottom_header.svg)
+![](https://github.com/akwe-afriitech/akwe-afriitech/blob/main/imgs/bottom_header.svg)
 
 
 
