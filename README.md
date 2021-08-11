@@ -1,7 +1,4 @@
-<html>
-  <head>
-   
-    </head>
+
 <h1 align="center">Hi 👋, I'm Earl Millen aka BossZeus🤓</h1>
 
 <h3 align="center">A <span stlye="color:blue;">young </span> web developer from cameroon💻</h3>
@@ -48,7 +45,7 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=akwe-afriitech&show_icons=true&locale=en&layout=compact" alt="akwe-afriitech"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akwe-afriitech&" alt="akwe-afriitech" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akwe-afriitech&" alt="akwe-afriitech" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech" /></p>
 
 <p></p>
 
