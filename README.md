@@ -56,7 +56,7 @@ _____________|','   ///_/-------------/   |                                     
 
 <p align="center">
   
-<a  href="https://linkedin.com/in/earl millen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="earl millen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/earl millen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="earl millen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/earl millen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="earl millen" height="30" width="40" /></a>
 <a href="https://fb.com/earl millen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="earl millen" height="30" width="40" /></a>
 <a href="https://instagram.com/bosszeus387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bosszeus387" height="30" width="40" /></a>
