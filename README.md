@@ -1,18 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Earl Millen aka BossZeus🤓</h1>
 
-<h3 align="center">A <span color="blue">young </span> web developer from cameroon💻</h3>
-<hr>
-<div align="center">
-  <img src="https://github.com/akwe-afriitech/akwe-afriitech/blob/main/asset/img/me.jpg" alt="akwe-loading">
-  </div>
-
-<hr>
-
-<p align="center" width:360;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
-
-
-  ```
+ ```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -33,6 +22,17 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+
+<h3 align="center">A <span color="blue">young </span> web developer from cameroon💻</h3>
+<hr>
+<div align="center">
+  <img src="https://github.com/akwe-afriitech/akwe-afriitech/blob/main/asset/img/me.jpg" alt="akwe-loading">
+  </div>
+
+<hr>
+
+<p align="center" width:360;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
+
 
   
 
