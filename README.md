@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Earl Millen aka BossZeus🤓</h1>
 
-<h3 align="center">A <span stlye="color:blue;">young </span> web developer from cameroon💻</h3>
+<h3 align="center">A <span color📘">young </span> web developer from cameroon💻</h3>
 <hr>
 <div align="center">
   <img src="https://github.com/akwe-afriitech/akwe-afriitech/blob/main/asset/img/me.jpg" alt="akwe-loading">
