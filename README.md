@@ -1,3 +1,7 @@
+<html>
+  <head>
+   
+    </head>
 <h1 align="center">Hi 👋, I'm Earl Millen aka BossZeus🤓</h1>
 
 <h3 align="center">A <span stlye="color:blue;">young </span> web developer from cameroon💻</h3>
