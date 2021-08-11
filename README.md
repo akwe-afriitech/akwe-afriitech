@@ -3,7 +3,7 @@
 <h3 align="center">A young web developer from cameroon💻</h3>
 <hr>
 <div align="center">
-  <img src="assets/img/me.jpg" alt="akwe-loading">
+  <img src="/assets/img/me.jpg" alt="akwe-loading">
   </div>
 
 <hr>
