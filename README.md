@@ -2,7 +2,7 @@
 
 <h3 align="center">A young web developer from cameroon💻</h3>
 <hr>
-<img src=" /assets/image/me.jpg" alt="akwe-afritech loading" >
+<img src=" /assets/img/me.jpg" alt="akwe-afritech loading" >
 
 <p align="center" width:360;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech" alt="akwe-afriitech" /></a> </p>
 
