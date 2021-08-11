@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Earl Millen aka BossZeus🤓 </h1>
+<h1 align="center">Hi 👋, I'm Earl Millen aka BossZeus🤓</h1>
 
 <h3 align="center">A young web developer from cameroon💻</h3>
 <hr>
