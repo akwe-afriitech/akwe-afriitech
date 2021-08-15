@@ -66,8 +66,8 @@ _____________|','   ///_/-------------/   |                                     
  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=akwe-afriitech&show_icons=true&locale=en&layout=compact" alt="akwe-afriitech"/></p>
 
 <p align="center">
- <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akwe-afriitech" alt="akwe-afriitech" />&nbsp;
- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech" />
+ <img align="center" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=akwe-afriitech" alt="akwe-afriitech" />&nbsp;
+ <img align="center" width="360" src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech" />
 </p>
 <hr>
 <div align="center">
