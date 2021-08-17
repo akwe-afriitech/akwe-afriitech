@@ -70,9 +70,4 @@ _____________|','   ///_/-------------/   |                                     
  <img align="center" width="360" src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech" />
 </p>
 <hr>
-<div align="center">
-  <img src="https://github.com/akwe-afriitech/akwe-afriitech/blob/main/asset/img/me.jpg" alt="akwe-loading">
-  </div>
-
-
 
