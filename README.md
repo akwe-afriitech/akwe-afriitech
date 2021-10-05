@@ -39,7 +39,7 @@ _____________|','   ///_/-------------/   |                                     
 
 - 👯 I’m looking to collaborate with web developers **On quickrent project**
 
-- 👨‍💻 All of my projects are available at my profile [akwe-afrittech](akwe-afrittech)
+- 👨‍💻 All of my project are available at my profile [akwe-afrittech](akwe-afrittech)
 
 - 📫 How to reach me via gmail **earlmillen7@gmail.com**
   </div>
