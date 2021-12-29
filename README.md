@@ -33,7 +33,7 @@ _____________|','   ///_/-------------/   |                                     
   
 
 <div align="center">
-  🔭 I’m currently working on a website to rent houses😎 **Quickrent**
+  🔭 I’m currently working on a website to rent houses😎 **SMACS Africa**
 
 - 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
 
