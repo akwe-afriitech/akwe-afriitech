@@ -35,7 +35,7 @@ _____________|','   ///_/-------------/   |                                     
   
 
 <div align="center">
-  🔭 I’m currently working on a website to rent houses😎 **SMACS Africa**
+  🔭 I’m currently working on a website to offer services and so am looking to collaborate with developers on😎 **SMACS Africa**
 
 - 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
 
