@@ -39,7 +39,7 @@ _____________|','   ///_/-------------/   |                                     
 
 - 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
 
-- 👯 I’m looking to collaborate with web developers **On SMACS Africa**
+- 👯 I’m looking for help with Reactjs to work a **Webapp project**
 
 - 👨‍💻 All of my project are available at my profile [akwe-afrittech](akwe-afrittech)
 
