@@ -1,4 +1,4 @@
-
+8
 <h1 align="center">Hi 👋,I'm Earl Millen aka Zeus🤓</h1>
 <h3 align="center">Happy New Year pips</h3>
 <h4 align="center">30days challenge</h4>
@@ -49,11 +49,12 @@ _____________|','   ///_/-------------/   |                                     
 
 <div align="center" style=" font-size:40px;   ">
 <h3 align="center">Connect with me:</h3>
+<
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <p align="center">
-  <hr>
+  
 
 <a href="https://linkedin.com/in/earl millen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="earl millen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/earl millen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="earl millen" height="30" width="40" /></a>
