@@ -1,7 +1,7 @@
 8
 <h1 align="center">Hi 👋,I'm Earl Millen aka Zeus🤓</h1>
-<h3 align="center">Happy New Year pips</h3>
-<h4 align="center">30days challenge</h4>
+<h3 align="center">HEHEHEHE</h3>
+<h4 align="center">Challenges</h4>
 
  ```
                              \\\\\\\
