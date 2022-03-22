@@ -71,7 +71,7 @@ _____________|','   ///_/-------------/   |                                     
 
 <p align="center">
  
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=akwe-afriitech&show_icons=true&locale=en&layout=compact" alt="akwe-afriitech"/></p>
+ <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akwe-afriitech&show_icons=true&locale=en&layout=compact" alt="akwe-afriitech"/></p>
 <hr>
 
 <p  align="center">
