@@ -80,3 +80,8 @@ _____________|','   ///_/-------------/   |                                     
 </p>
   <hr>
 
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Cameroon') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
