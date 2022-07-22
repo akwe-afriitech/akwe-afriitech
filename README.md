@@ -69,6 +69,7 @@ _____________|','   ///_/-------------/   |                                     
  </a>
 </p>
 
+<div align="center">
 <p align="center">
  
  <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akwe-afriitech&show_icons=true&locale=en&layout=compact" alt="akwe-afriitech"/></p>
@@ -79,5 +80,6 @@ _____________|','   ///_/-------------/   |                                     
  <img align="center" width="360" src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech"/>
 </p>
   <hr>
+ </div>
 
 
