@@ -37,13 +37,13 @@ _____________|','   ///_/-------------/   |                                     
 <div align="center">
   🔭 I’m currently working on a website to offer services and so am looking to collaborate with developers on😎 **SMACS Africa**
 
-- 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
+ 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
 
-- 👯 I’m looking for help with Reactjs to work a **Webapp project**
+ 👯 I’m looking for help with Reactjs to work a **Webapp project**
 
-- 👨‍💻 All of my project are available at my profile [akwe-afrittech](akwe-afrittech)
+ 👨‍💻 All of my project are available at my profile [akwe-afrittech](akwe-afrittech)
 
-- 📫 How to reach me via gmail **earlmillen7@gmail.com**
+ 📫 How to reach me via gmail **earlmillen7@gmail.com**
   </div>
 
 
