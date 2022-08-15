@@ -75,7 +75,7 @@ _____________|','   ///_/-------------/   |                                     
 <hr>
 
 <p  align="center">
- <img align="center" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=akwe-afriitech" alt="akwe-afriitech"/>&nbsp;
+ <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=akwe-afriitech" alt="akwe-afriitech"/>&nbsp;
  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=akwe-afriitech&show_icons=true&locale=en" alt="akwe-afriitech"/>
 </p>
   <hr>
