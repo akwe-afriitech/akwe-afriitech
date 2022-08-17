@@ -31,9 +31,7 @@ _____________|','   ///_/-------------/   |                                     
 
 <p align="center" width:360;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech&column=8&no-frame=true&no-bg=true" alt="akwe-afriitech" /></a> </p>
 
-
   
-
 <div align="center">
   🔭 I’m currently working on a website to offer services and so am looking to collaborate with developers on😎 **SMACS Africa**
 
