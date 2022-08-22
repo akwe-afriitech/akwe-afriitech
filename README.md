@@ -45,7 +45,7 @@ _____________|','   ///_/-------------/   |                                     
   </div>
 
 
-<div align="center" style=" font-size:40px;">
+<div align="center" style=" font-size:50px;">
 
 <h3 align="center">Connect with me:</h3>
 
