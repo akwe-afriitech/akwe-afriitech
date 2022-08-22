@@ -25,7 +25,7 @@ _____________|','   ///_/-------------/   |                                     
               |===========,'
 ```
 
-<h3 align="center">A <span color="blue">young </span> web developer from cameroon💻</h3>
+<h3 align="center">A <span cstyle="color:blue;">young </span> web developer from cameroon💻</h3>
 
 <hr>
 
