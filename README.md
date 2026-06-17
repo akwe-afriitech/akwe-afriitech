@@ -1,26 +1,6 @@
-
-<h1 align="center">Hi 👋,I'm Earl Millen </h1>
-
-
-
-<h3 align="center">I am <span style="color:blue;">Software developer</span> from Cameroon💻</h3>
+<h3 align="center">Experienced software engineer and entrepreneur with a strong foundation in software and web development. Proven ability to lead projects from concept to completion, utilizing skills in full-stack development, testing, and team collaboration. Founder of Futurelinks specializing in web design and digital marketing solutions for businesses. Skilled in diverse programming languages and frameworks, with a strong commitment to delivering high-quality, innovative solutions.</h3>
 
 <hr>
-
-<p align="center" width:360;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=akwe-afriitech&column=8&no-frame=true&no-bg=true" alt="akwe-afriitech" /></a> </p>
-
-  
-<div align="center">
-  🔭 I’m currently working on a mobile application so am looking to collaborate with developers on **MoUniverse**
-
- 🌱 I’m currently learning cloud computing with GADS 🤓 **Google Africa Developer Scholarship 🤓**
-
- 👯 I’m looking for help with Reactjs, flutter/dart to work on **Webapps and mobile apps project**
-
- 👨‍💻 All of my project are available at my profile [akwe-afrittech](akwe-afrittech)
-
- 📫 How to reach me via gmail **earlmillen7@gmail.com**
-  </div>
 
 
 <div align="center" 
